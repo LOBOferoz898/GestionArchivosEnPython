@@ -1,0 +1,2 @@
+ApuntesComand = open("ApuntesComandosGIT.txt",'w') #el segundo argumento de w significa write, por lo cual tenemos el permiso para escribir en el archivo
+ApuntesComand.write("\nagregamos una nueva linea") # PERO OJO esto modificara todo lo que contenga
